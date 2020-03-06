@@ -4,13 +4,13 @@ Classes - Fields (Variables), Methods
 
 "New" keyword is used to create an object for the class
 
-Class Flight {}
+	Class Flight {}
 
-Flight Flight1 = New Flight()
+	Flight Flight1 = New Flight()
 
 Flight1 is merely a reference to the object.
 
-Flight2=Flight1;
+	Flight2=Flight1;
 
 Now Flight1 and Flight2 references to the same object.
 
@@ -44,4 +44,4 @@ This - Allows object to pass itself as an parameter.
 
 Null - Represents uncreated objects  and can be assigned to any reference variable
 
-Example program Snippet
+Example program Snippet - https://github.com/barathgdkrish/isNoAeinstein/tree/master/simpleFlightSeatsAllocator
